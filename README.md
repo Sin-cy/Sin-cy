@@ -11,6 +11,8 @@ I'm a Junior Self-Taught Software Engineer passionate about software engineering
 - Databases: MongoDB, MySQL and GraphQl
 - Tools: Git, Vim/Nvim , VSCode(debugging) and Terminal Utils.
 
+---
+
 ### 🔭 Current Projects
 
 - Seth-V2: Website about me written in React specifically for experimenting and learning web dev
@@ -18,6 +20,8 @@ I'm a Junior Self-Taught Software Engineer passionate about software engineering
 - Cookie Consent: A fun blog page with an annoying cookie consent for users to accept before entering the page
 - Image to ASCI: Currently deciding weather to learn C++ or stay with JS and find a work around creating it.
 - Note Taking App: In progress...
+
+---
 
 ### 🌱 I'm currently learning
 
@@ -30,6 +34,7 @@ I'm a Junior Self-Taught Software Engineer passionate about software engineering
 ### 👯 I'm looking to collaborate on
 
 Open source projects related to [API's/Creating Apps/Tools for productivity]
+---
 
 ## 📫 How to reach me
 
