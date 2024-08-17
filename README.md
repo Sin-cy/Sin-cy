@@ -13,19 +13,19 @@ Tools: Git, Vim/Nvim , VSCode(debugging) and Terminal Utils.
 
 ### 🔭 Current Projects
 
-[Seth-V2]: Website about me written in React specifically for experimenting and learning web dev
-[Password Generator]: As a part of my learning journey, I wanted to create something I can use on my own
-[Cookie Consent]: A fun blog page with an annoying cookie consent for users to accept before entering the page
-[Image to ASCI]: Currently deciding weather to learn C++ or stay with JS and find a work around creating it.
-[Note Taking App]: In progress...
+- Seth-V2: Website about me written in React specifically for experimenting and learning web dev
+- Password Generator: As a part of my learning journey, I wanted to create something I can use on my own
+- Cookie Consent: A fun blog page with an annoying cookie consent for users to accept before entering the page
+- Image to ASCI: Currently deciding weather to learn C++ or stay with JS and find a work around creating it.
+- Note Taking App: In progress...
 
 ### 🌱 I'm currently learning
 
-[To Master JavaScript]
-[Golang -> Creating HTTP servers]
-[Cloud Computing]
-[Backend in general]
-[LLM's and AI]
+- [To Master JavaScript]
+- [Golang -> Creating HTTP servers]
+- [Cloud Computing]
+- [Backend in general]
+- [LLM's and AI]
 
 ### 👯 I'm looking to collaborate on
 
