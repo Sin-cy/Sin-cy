@@ -5,11 +5,11 @@ I'm a Junior Self-Taught Software Engineer passionate about software engineering
 
 ## 🛠 Skills
 
-Languages: JavaScript
-Frontend(Main): JS, TS, React, HTML and CSS
-Backend: Node.js and Express
-Databases: MongoDB, MySQL and GraphQl
-Tools: Git, Vim/Nvim , VSCode(debugging) and Terminal Utils.
+- Languages: JavaScript
+- Frontend(Main): JS, TS, React, HTML and CSS
+- Backend: Node.js and Express
+- Databases: MongoDB, MySQL and GraphQl
+- Tools: Git, Vim/Nvim , VSCode(debugging) and Terminal Utils.
 
 ### 🔭 Current Projects
 
