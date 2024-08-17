@@ -33,8 +33,8 @@ Open source projects related to [API's/Creating Apps/Tools for productivity]
 
 ## 📫 How to reach me
 
-LinkedIn: [www.linkedin.com/in/setthanan-panichnok-593346261]
-Email: [setthananpanichnok@gmail.com]
+- LinkedIn: [www.linkedin.com/in/setthanan-panichnok-593346261| link ]
+- Email: [setthananpanichnok@gmail.com]
 
 📊 GitHub Stats
 Processing...
