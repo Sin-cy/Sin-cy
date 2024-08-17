@@ -34,6 +34,7 @@ I'm a Junior Self-Taught Software Engineer passionate about software engineering
 ### 👯 I'm looking to collaborate on
 
 Open source projects related to [API's/Creating Apps/Tools for productivity]
+
 ---
 
 ## 📫 How to reach me
