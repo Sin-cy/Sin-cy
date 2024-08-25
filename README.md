@@ -19,7 +19,7 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLW91qRkg?
             color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
     <a href="https://www.youtube.com/c/sethyedw">
-< /p>
+</p>
 
 <!-- Social icons section -->
 <p align="center">
