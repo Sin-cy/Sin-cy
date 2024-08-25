@@ -39,7 +39,6 @@ My journey in tech started 1 and a half year ago when I realized I loved softwar
 <!-- - Databases: MongoDB, MySQL and GraphQl -->
 <!-- - Tools: Git, Vim/Nvim , VSCode(debugging) and Terminal Utils. -->
 
-
 <!-- Frontend -->
 <p align="left" style="width: 30px; padding-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
@@ -80,9 +79,6 @@ My journey in tech started 1 and a half year ago when I realized I loved softwar
 <!--     </span> -->
 <!-- </p> -->
 
-
----
-
 ### 🔭 Current Projects
 
 - Seth-V2: Website about me written in React specifically for experimenting and learning web dev
@@ -91,8 +87,6 @@ My journey in tech started 1 and a half year ago when I realized I loved softwar
 - Image to ASCI: Currently deciding weather to learn C++ or stay with JS and find a work around creating it.
 - Note Taking App: In progress...
 
----
-
 ### 🌱 I'm currently learning
 
 - [To Master JavaScript]
@@ -100,10 +94,6 @@ My journey in tech started 1 and a half year ago when I realized I loved softwar
 - [Cloud Computing]
 - [Backend in general]
 - [LLM's and AI]
-
-### 👯 I'm looking to collaborate on
-
-Open source projects related to [API's/Creating Apps/Tools for productivity]
 
 ---
 
