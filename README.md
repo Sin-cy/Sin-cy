@@ -11,13 +11,9 @@
 I'm a Junior Self-Taught Software Developer passionate about software engineering, web development and tech in general. My journey in tech started 1 and a half year ago when I realized I loved software engineering while I was studying avionics engineering, and I've been learning improving and coding ever since!
 
 <!-- Social icons section -->
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" style="display: inline-block; text-decoration: none; border:none;">
-        <img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/fluency/48/26e07f/youtube-play.png" style="vertical-align: middle"/>
-    </a>
-    <a href="https://www.linkedin.com/in/setthanan-panichnok-593346261" style="display: inline-block; text-decoration: none; border:none;">
-        <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/26e07f/linkedin.png" style="vertical-align: middle"/>
-    </a>
+<p align="center" >
+    <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" ><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/fluency/48/26e07f/youtube-play.png" /></a>
+    <a href="https://www.linkedin.com/in/setthanan-panichnok-593346261" ><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/26e07f/linkedin.png" /></a>
 </p>
 
 <p align="center">
