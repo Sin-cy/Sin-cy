@@ -25,7 +25,9 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCWam55wUh-OOcvrGJisq0zA?color=%2383C9F4&logo=video&logoColor=white&style=for-the-badge&labelColor=003B6F"/></a>
 </p>
 
-## 🛠 Skills
+---
+
+### 🛠 Tools and Languages
 
 <!-- - Languages: JavaScript -->
 <!-- - Frontend(Main): JS, TS, React, HTML and CSS -->
