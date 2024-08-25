@@ -15,7 +15,6 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
     <a href="https://www.instagram.com/seth_edw/" ><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/?size=160&id=BrU2BBoRXiWq&format=png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/setthanan-panichnok-593346261" ><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/26e07f/linkedin.png" /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 #
