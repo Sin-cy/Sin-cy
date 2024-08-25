@@ -55,7 +55,7 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" title="Neovim" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Terminal" title="Terminal Utils" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Terminal" title="Terminal Utils" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
