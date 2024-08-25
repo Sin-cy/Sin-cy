@@ -54,6 +54,7 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40"/>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
