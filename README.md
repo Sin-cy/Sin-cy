@@ -37,11 +37,56 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
 
 ## 🛠 Skills
 
-- Languages: JavaScript
-- Frontend(Main): JS, TS, React, HTML and CSS
-- Backend: Node.js and Express
-- Databases: MongoDB, MySQL and GraphQl
-- Tools: Git, Vim/Nvim , VSCode(debugging) and Terminal Utils.
+<!-- - Languages: JavaScript -->
+<!-- - Frontend(Main): JS, TS, React, HTML and CSS -->
+<!-- - Backend: Node.js and Express -->
+<!-- - Databases: MongoDB, MySQL and GraphQl -->
+<!-- - Tools: Git, Vim/Nvim , VSCode(debugging) and Terminal Utils. -->
+
+<!-- Languages -->
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+</p>
+
+<!-- Frontend -->
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React" title="React" width="40" height="40"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" width="40" height="40"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40"/>
+</p>
+
+<!-- Backend -->
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" width="40" height="40"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" title="Express" width="40" height="40"/>
+</p>
+
+<!-- Databases -->
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="40" height="40"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" title="GraphQL" width="40" height="40"/>
+</p>
+
+<!-- Tools -->
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://img.icons8.com/color/48/000000/vim.png" alt="Vim" title="Vim/Nvim" width="40" height="40"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode" width="40" height="40"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Terminal" title="Terminal Utils" width="40" height="40"/>
+</p>
 
 ---
 
