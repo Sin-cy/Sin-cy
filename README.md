@@ -1,4 +1,4 @@
-# ☕︎Sincy | SethEdw
+# ☕︎ Sincy | SethEdw
 **` Producer of Bugs (Jr.Dev/Creator) `**
 
 <p align="center">
