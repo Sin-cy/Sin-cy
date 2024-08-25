@@ -37,32 +37,32 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
 
 
 <!-- Frontend -->
-<p align="center">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+<p align="left" style="width: 30px; padding-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React" title="React" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <!-- Others -->
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="Neovim" title="Neovim" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" title="Neovim" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://img.icons8.com/color/48/000000/console.png" alt="Terminal" title="Terminal Utils" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Terminal" title="Terminal Utils" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <!-- Databases -->
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
