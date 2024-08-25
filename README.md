@@ -19,13 +19,20 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1">
-        <img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/fluency/48/26e07f/youtube-play.png"/>
-      </a>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href="https://www.linkedin.com/in/setthanan-panichnok-593346261">
-        <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/26e07f/linkedin.png"/>
-      </a>
+      <table>
+        <tr>
+          <td align="center" style="padding: 0 10px;">
+            <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1">
+              <img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/fluency/48/26e07f/youtube-play.png"/>
+            </a>
+          </td>
+          <td align="center" style="padding: 0 10px;">
+            <a href="https://www.linkedin.com/in/setthanan-panichnok-593346261">
+              <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/26e07f/linkedin.png"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
@@ -36,8 +43,6 @@
     </td>
   </tr>
 </table>
-
-
 ## 🛠 Skills
 
 <!-- - Languages: JavaScript -->
