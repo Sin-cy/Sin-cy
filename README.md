@@ -17,6 +17,8 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<br>
+
 #
 
 <p align="center">
