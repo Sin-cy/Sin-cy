@@ -4,8 +4,8 @@
 <p align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&size=23&duration=1&color=6ECFF7&vCenter=true&repeat=false&width=435&lines=Pheno+Seth+Panichnok" alt="Typing SVG" /></a>
 </p>
-I'm a Junior Self-Taught Software Developer passionate about software engineering, web development and tech in general. My journey in tech started 1 and a half year ago when I realized I loved software engineering while I was studying avionics engineering, and I've been learning improving and coding ever since!
-
+I'm a Junior Self-Taught Software Developer passionate about software engineering, web development and tech in general.
+My journey in tech started 1 and a half year ago when I realized I loved software engineering while I was studying avionics engineering, and I've been learning improving and coding ever since!
 
 <p align="center" >
     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" ><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/fluency/48/26e07f/youtube-play.png" /></a>
@@ -15,8 +15,6 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
     <a href="https://www.linkedin.com/in/setthanan-panichnok-593346261" ><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/26e07f/linkedin.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
-#
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&pause=1000&color=6ECFF7&center=true&vCenter=true&width=435&lines=Self-taught+Jr.+Developer;Never+Stop+Learning" alt="Typing SVG" /></a>
