@@ -29,7 +29,7 @@ My journey in tech started 1 and a half year ago when I realized I loved softwar
         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCWam55wUh-OOcvrGJisq0zA?color=%2383C9F4&logo=video&logoColor=white&style=for-the-badge&labelColor=003B6F"/></a>
 </p>
 
----
+#
 
 ### 🛠 Tools and Languages
 
@@ -69,7 +69,8 @@ My journey in tech started 1 and a half year ago when I realized I loved softwar
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-#
+---
+
 <!-- Tools -->
 <!-- <p align="center"> -->
 <!-- </p> -->
