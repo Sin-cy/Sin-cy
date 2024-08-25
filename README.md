@@ -54,15 +54,20 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" width="40" height="40"/>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<!-- Backend -->
-<p>
-    <span align="left">
-        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" width="40" height="40"/>
-        &#8287;&#8287;&#8287;&#8287;&#8287;
-        <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" title="Express" width="40" height="40"/>
-    </span>
+<!-- Tools -->
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"/>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="Neovim" title="Neovim" width="40" height="40"/>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <img src="https://img.icons8.com/color/48/000000/console.png" alt="Terminal" title="Terminal Utils" width="40" height="40"/>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode" width="40" height="40"/>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <!-- Databases -->
@@ -75,16 +80,6 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
     </span>
 </p>
 
-<!-- Tools -->
-<p align="center">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="Neovim" title="Neovim" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://img.icons8.com/color/48/000000/console.png" alt="Terminal" title="Terminal Utils" width="40" height="40"/>
-</p>
 
 ---
 
