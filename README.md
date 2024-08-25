@@ -16,7 +16,7 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1">
-        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLW91qRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a>
     <a href="https://www.youtube.com/@sethyedw">
     </a>
