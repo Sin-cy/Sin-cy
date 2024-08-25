@@ -2,12 +2,12 @@
 ---
 **` Producer of Bugs (Jr.Dev/Creator) `**
 
-<p>
+<p align="Center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+Nl&size=25&duration=1&color=00F7C3&center=true&vCenter=true&repeat=false&width=435&lines=Pheno+Seth+Panichnok" alt="Typing SVG" />
     </a>
 <p>
 
-<p>
+<p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+Nl&pause=1000&color=00F7C3&center=true&vCenter=true&width=435&lines=Self-taught+Jr.+Developer;Never+Stop+Learning" alt="Typing SVG" />
     </a>
 </p>
@@ -15,10 +15,10 @@
 I'm a Junior Self-Taught Software Developer passionate about software engineering, web development and tech in general. My journey in tech started 1 and a half year ago when I realized I loved software engineering while I was studying avionics engineering, and I've been learning improving and coding ever since!
 
 <p align="center">
-    <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1">
+    <a href="https://www.youtube.com/channel/c/sethyedw?sub_confirmation=1">
         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLW91qRkg?
             color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-    <a href="https://www.youtube.com/@sethyedw">
+    <a href="https://www.youtube.com/c/sethyedw">
 < /p>
 
 <!-- Social icons section -->
