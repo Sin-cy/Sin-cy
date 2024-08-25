@@ -71,7 +71,7 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
 </p>
 
 <!-- Databases -->
-<p>
+<p align="center">
     <span>
         <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
