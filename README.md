@@ -22,6 +22,9 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" style="text-decoration: none;">
         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCWam55wUh-OOcvrGJisq0zA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" style="display: block;"/>
     </a>
+    <a href="https://www.youtube.com/c/DevProTips">
+        <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/>
+    </a> 
 </p>
 
 ## 🛠 Skills
