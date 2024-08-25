@@ -6,6 +6,7 @@
 </p>
 I'm a Junior Self-Taught Software Developer passionate about software engineering, web development and tech in general. My journey in tech started 1 and a half year ago when I realized I loved software engineering while I was studying avionics engineering, and I've been learning improving and coding ever since!
 
+<br>
 
 <!-- Social icons section -->
 <p align="center" >
@@ -16,9 +17,6 @@ I'm a Junior Self-Taught Software Developer passionate about software engineerin
     <a href="https://www.linkedin.com/in/setthanan-panichnok-593346261" ><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/26e07f/linkedin.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
-<br>
-
 #
 
 <p align="center">
