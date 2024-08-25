@@ -7,6 +7,8 @@
 I'm a Junior Self-Taught Software Developer passionate about software engineering, web development and tech in general.
 My journey in tech started 1 and a half year ago when I realized I loved software engineering while I was studying avionics engineering, and I've been learning improving and coding ever since!
 
+---
+
 <p align="center" >
     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" ><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/fluency/48/26e07f/youtube-play.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
