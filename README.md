@@ -69,6 +69,7 @@ My journey in tech started 1 and a half year ago when I realized I loved softwar
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+#
 <!-- Tools -->
 <!-- <p align="center"> -->
 <!-- </p> -->
@@ -95,11 +96,11 @@ My journey in tech started 1 and a half year ago when I realized I loved softwar
 - [Backend in general]
 - [LLM's and AI]
 
----
 
 ## 📫 How to reach me
 
 - Email: [setthananpanichnok@gmail.com]
+
 
 📊 GitHub Stats
 Processing...
