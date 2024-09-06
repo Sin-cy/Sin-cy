@@ -70,13 +70,13 @@ My journey in tech started in the mids of 2022 when I realized I loved software 
     <!-- Postman -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" title="Notion" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" title="Notion" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img src="https://obsidian.md/images/obsidian-logo-gradient.svg" alt="Obsidian" title="Obsidian" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="DaVinci Resolve" title="DaVinci Resolve" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Affinity_Photo_logo_new.svg" alt="Affinity Photo" title="Affinity Photo" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Affinity_Photo_V2_icon.svg/2048px-Affinity_Photo_V2_icon.svg.png" alt="Affinity Photo" title="Affinity Photo" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
