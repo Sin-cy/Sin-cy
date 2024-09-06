@@ -2,10 +2,10 @@
 **` Producer of Bugs (Jr.Dev/Creator) `**
 
 <p align="left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&size=23&duration=1&color=6ECFF7&vCenter=true&repeat=false&width=435&lines=Pheno+Seth+Panichnok" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&size=23&duration=1&color=F6C177&vCenter=true&repeat=false&width=435&lines=Pheno+Seth+Panichnok" alt="Typing SVG" /></a>
 </p>
 I'm a Junior Self-Taught Software Developer passionate about software engineering, web development and tech in general.
-My journey in tech started 1 and a half year ago when I realized I loved software engineering while I was studying avionics engineering, and I've been learning improving and coding ever since!
+My journey in tech started in the mids of 2022 when I realized I loved software engineering while I was studying avionics engineering, and I've been learning improving and coding ever since!
 
 ---
 
@@ -83,23 +83,23 @@ My journey in tech started 1 and a half year ago when I realized I loved softwar
 
 ### 🔭 Current Projects
 
-- Seth-V2: Website about me written in React specifically for experimenting and learning web dev
+- Seth-V2: Profile page written in React specifically for experimenting and learning web dev
 - Password Generator: As a part of my learning journey, I wanted to create something I can use on my own
 - Cookie Consent: A fun blog page with an annoying cookie consent for users to accept before entering the page
-- Image to ASCI: Currently deciding weather to learn C++ or stay with JS and find a work around creating it.
+- Image to ASCII: Currently deciding weather to learn C++ or stay with JS and find a work around creating it.
 - Note Taking App: In progress...
 
 ### 🌱 I'm currently learning
 
-- [To Master JavaScript]
-- [Golang -> Creating HTTP servers]
-- [Cloud Computing]
-- [Backend in general]
-- [LLM's and AI]
+- To Master JavaScript
+- Golang -> Creating HTTP servers
+- Cloud Computing
+- Backend in general
+- LLM's and AI
 
 
 ### 📫 How to reach me
-- Email: [setthananpanichnok@gmail.com]
+- Email: setthananpanichnok@gmail.com
 
 ---
 
