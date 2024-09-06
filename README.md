@@ -97,9 +97,9 @@ My journey in tech started in the mids of 2022 when I realized I loved software 
 
 ### 🔭 Current Projects
 
-- Seth-V2: Profile page written in React specifically for experimenting and learning web dev
-- Password Generator: As a part of my learning journey, I wanted to create something I can use on my own
-- Cookie Consent: A fun blog page with an annoying cookie consent for users to accept before entering the page
+- [Seth-V2](https://seth-v2.netlify.app/): Profile page written in React specifically for experimenting and learning web dev
+- [Password Generator](https://sincypass-generator.netlify.app/): As a part of my learning journey, I wanted to create something I can use on my own
+- [Cookie Consent](https://unacceptable-cookieconsent.netlify.app/): A fun blog page with an annoying cookie consent for users to accept before entering the page
 - Image to ASCII: Currently deciding weather to learn C++ or stay with JS and find a work around creating it.
 - Note Taking App: In progress...
 
