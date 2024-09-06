@@ -67,7 +67,10 @@ My journey in tech started in the mids of 2022 when I realized I loved software 
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <!-- Postman -->
+</p>
+
+<p align="center" style="width: 30px;">
+    <!-- others -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" title="Notion" width="40" height="40"/>
