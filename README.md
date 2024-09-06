@@ -6,7 +6,11 @@
 </p>
 I'm a Junior Self-Taught Software Developer passionate about software engineering, web development and tech in general.
 My journey in tech started in the mids of 2022 when I realized I loved software engineering while I was studying avionics engineering, and I've been learning improving and coding ever since!
-<br>
+
+
+
+
+
 <p>
     <a href="https://seth-v2.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img alt="Visit Seth V2 website" title="Visit Seth V2 website" src="https://img.shields.io/badge/Seth%20V2-9CCFD8?style=for-the-badge&logo=netlify&labelColor=000000" /></a>
