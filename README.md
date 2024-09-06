@@ -7,8 +7,10 @@
 I'm a Junior Self-Taught Software Developer passionate about software engineering, web development and tech in general.
 My journey in tech started in the mids of 2022 when I realized I loved software engineering while I was studying avionics engineering, and I've been learning improving and coding ever since!
 
-<a href="https://seth-v2.netlify.app/" style="text-decoration: none;">
-    <img alt="website" title="visit my profile" src="https://custom-icon-badges.demolab.com?logo=seth-v2&color=9CCFD8&label=Profile" style="display: block;"/></a>
+<p>
+    <a href="https://seth-v2.netlify.app/" style="text-decoration: none;">
+        <img alt="website" title="visit my profile" src="https://custom-icon-badges.demolab.com?logo=seth-v2&color=9CCFD8&label=Profile" style="display: block;"/></a>
+</p>
 ---
 
 <p align="center" >
