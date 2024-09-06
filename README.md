@@ -40,7 +40,7 @@ My journey in tech started in the mids of 2022 when I realized I loved software 
 <!-- - Tools: Git, Vim/Nvim , VSCode(debugging) and Terminal Utils. -->
 
 <!-- Frontend -->
-<p align="left" style="width: 30px; padding-right: 10px;">
+<p align="center" style="width: 30px; padding-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
