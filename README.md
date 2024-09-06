@@ -121,14 +121,6 @@ My journey in tech started in the mids of 2022 when I realized I loved software 
 
 ---
 
-📊 GitHub Stats
-Processing...
-
-🏆 GitHub Trophies
-Processing...
-
----
-
 ⚖︎ From @Sin-cy
 
 <!---
