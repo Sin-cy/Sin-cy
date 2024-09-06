@@ -88,7 +88,7 @@ My journey in tech started in the mids of 2022 when I realized I loved software 
 
 ---
 
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sin-cy&layout=compact&theme=rose_pine&show_icons=true)
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sin-cy&theme=rose_pine&show_icons=true)
 <!-- Tools -->
 <!-- <p align="center"> -->
 <!-- </p> -->
