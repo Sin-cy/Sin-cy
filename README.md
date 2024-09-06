@@ -3,6 +3,9 @@
 
 <p align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&size=23&duration=1&color=F6C177&vCenter=true&repeat=false&width=435&lines=Pheno+Seth+Panichnok" alt="Typing SVG" /></a>
+</p>
+
+<p align="left">
     I'm a Junior Self-Taught Software Developer passionate about software engineering, web development and tech in general.
     My journey in tech started in the mids of 2022 when I realized I loved software engineering while I was studying avionics engineering, and I've been learning improving and coding ever since!
 </p>
