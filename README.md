@@ -14,6 +14,8 @@
     <a href="https://seth-v2.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img alt="Visit Seth V2 website" title="Visit Seth V2 website" src="https://img.shields.io/badge/Seth%20V2-9CCFD8?style=for-the-badge&logo=netlify&labelColor=000000" /></a>
 </p>
+
+
 ---
 
 <p align="center" >
