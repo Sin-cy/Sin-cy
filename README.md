@@ -60,7 +60,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174935.png?f=webp&w=512" alt="Node.js" title="Node.js" width="40" height="40"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <!-- Others -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
