@@ -6,8 +6,9 @@
 </p>
 
 <p align="left">
-    I'm a Junior Self-Taught Software Developer passionate about software engineering, web development and tech in general.
-    My journey in tech started in the mids of 2022 when I realized I loved software engineering while I was studying avionics engineering, and I've been learning improving and coding ever since!
+    I’m a Junior Self-Taught Software Developer with a passion for software engineering and technology. 
+    My journey in tech began in mid-2022 while studying Avionics Engineering, I discovered my love for programming. Since then, I've been dedicated to improving my skills and expanding my knowledge. 
+    In addition, I also create content focused on Tech and Productivity, sharing my insights and experiences with others.
 </p>
 
 <p>
