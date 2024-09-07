@@ -134,7 +134,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" ><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/fluency/48/26e07f/youtube-play.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://seth-v2.netlify.app/#contact" ><img width="32px" alt="Contact" title="Email me here" src="https://cdn-icons-png.flaticon.com/128/3296/3296464.png" /></a>
+    <a href="https://seth-v2.netlify.app/#contact/" ><img width="32px" alt="Contact" title="Email me here" src="https://cdn-icons-png.flaticon.com/128/3296/3296464.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 - Email: setthananpanichnok@gmail.com
