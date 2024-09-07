@@ -18,14 +18,14 @@
 
 ---
 
-<p align="center" >
-    <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" ><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/fluency/48/26e07f/youtube-play.png" /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/seth_edw/" ><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=160&id=BrU2BBoRXiWq&format=png" /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.linkedin.com/in/setthanan-panichnok-593346261" ><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/26e07f/linkedin.png" /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+<!-- <p align="center" > -->
+<!--     <a href="https://www.linkedin.com/in/setthanan-panichnok-593346261" ><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/26e07f/linkedin.png" /></a> -->
+<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
+<!--     <a href="https://www.instagram.com/seth_edw/" ><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=160&id=BrU2BBoRXiWq&format=png" /></a> -->
+<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
+<!--     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" ><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/fluency/48/26e07f/youtube-play.png" /></a> -->
+<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
+<!-- </p> -->
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&pause=1000&color=6ECFF7&center=true&vCenter=true&width=435&lines=Self-taught+Jr.+Developer;Never+Stop+Learning" alt="Typing SVG" /></a>
@@ -126,6 +126,15 @@
 
 
 ### 📫 How to reach me
+
+<p align="center" >
+    <a href="https://www.linkedin.com/in/setthanan-panichnok-593346261" ><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/26e07f/linkedin.png" /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.instagram.com/seth_edw/" ><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=160&id=BrU2BBoRXiWq&format=png" /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" ><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/fluency/48/26e07f/youtube-play.png" /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 - Email: setthananpanichnok@gmail.com
 
 ---
