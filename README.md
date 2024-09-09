@@ -77,7 +77,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<!-- <p align="center" style="width: 30px;"> -->
+<p align="center" style="width: 30px;">
 <!--     <!-- others --> -->
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40"/> -->
 <!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
@@ -92,8 +92,7 @@
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40"/> -->
 <!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="40" height="40"/> -->
-<!-- </p> -->
-<!---->
+</p>
 
 #
 
