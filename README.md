@@ -94,7 +94,7 @@
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="40" height="40"/> -->
 <!-- </p> -->
 
----
+#
 
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sin-cy&layout=compact&theme=rose_pine&show_icons=true)
 
