@@ -77,23 +77,6 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<p align="center" style="width: 30px;">
-<!--     <!-- others --> -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" title="Notion" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://obsidian.md/images/obsidian-logo-gradient.svg" alt="Obsidian" title="Obsidian" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="DaVinci Resolve" title="DaVinci Resolve" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Affinity_Photo_V2_icon.svg/2048px-Affinity_Photo_V2_icon.svg.png" alt="Affinity Photo" title="Affinity Photo" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="40" height="40"/> -->
-</p>
-
 #
 
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sin-cy&layout=compact&theme=rose_pine&show_icons=true)
