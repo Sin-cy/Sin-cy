@@ -1,7 +1,7 @@
 **`Producer of Bugs (Jr.Dev/Creator)`**
 
 <p align="left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&size=23&duration=1&color=F6C177&vCenter=true&repeat=false&width=435&lines=Pheno+Seth+Panichnok" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&size=23&duration=1&color=F6C177&vCenter=true&repeat=false&width=435&lines=Pheno+Seth" alt="Typing SVG" /></a>
 </p>
 
 <p align="left">
@@ -13,6 +13,10 @@
 <p>
     <a href="https://seth-v2.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img alt="Visit Seth V2 website" title="Visit Seth V2 website" src="https://img.shields.io/badge/Seth%20V2-9CCFD8?style=for-the-badge&logo=netlify&labelColor=000000" /></a>
+    <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" style="text-decoration: none;">
+        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCWam55wUh-OOcvrGJisq0zA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" style="display: block;"/></a>
+    <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA">
+        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCWam55wUh-OOcvrGJisq0zA?color=%2383C9F4&logo=video&logoColor=white&style=for-the-badge&labelColor=003B6F"/></a>
 </p>
 
 ---
@@ -26,16 +30,16 @@
 <!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
 <!-- </p> -->
 
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&pause=1000&color=6ECFF7&center=true&vCenter=true&width=435&lines=Self-taught+Jr.+Developer;Never+Stop+Learning" alt="Typing SVG" /></a>
-</p>
+<!-- <p align="center"> -->
+<!--     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&pause=1000&color=6ECFF7&center=true&vCenter=true&width=435&lines=Self-taught+Jr.+Developer;Never+Stop+Learning" alt="Typing SVG" /></a> -->
+<!-- </p> -->
 
-<p align="center">
-    <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" style="text-decoration: none;">
-        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCWam55wUh-OOcvrGJisq0zA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" style="display: block;"/></a>
-    <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA">
-        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCWam55wUh-OOcvrGJisq0zA?color=%2383C9F4&logo=video&logoColor=white&style=for-the-badge&labelColor=003B6F"/></a>
-</p>
+<!-- <p align="center"> -->
+<!--     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" style="text-decoration: none;"> -->
+<!--         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCWam55wUh-OOcvrGJisq0zA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" style="display: block;"/></a> -->
+<!--     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA"> -->
+<!--         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCWam55wUh-OOcvrGJisq0zA?color=%2383C9F4&logo=video&logoColor=white&style=for-the-badge&labelColor=003B6F"/></a> -->
+<!-- </p> -->
 
 #
 
