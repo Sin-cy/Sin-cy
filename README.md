@@ -93,7 +93,9 @@
 <!--     </span> -->
 <!-- </p> -->
 
-[![Lets talk about the Arc Browser](https://ytcards.demolab.com/?id=-KuHY6vYP0g&title=Lets+talk+about+the+Arc+Browser&lang=en&timestamp=1699799330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "Lets talk about the Arc Browser")](https://youtu.be/-KuHY6vYP0g?si=qcRQAUJ1lEO-TP9V)
+[![Lets talk about the Arc Browser](https://ytcards.demolab.com/?id=-KuHY6vYP0g&title=Lets+talk+about+the+Arc+Browser&lang=en&timestamp=1722211200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "Lets talk about the Arc Browser")](https://youtu.be/-KuHY6vYP0g?si=qcRQAUJ1lEO-TP9V)
+[![The Zen Browser is Worth Taking a Look At](https://ytcards.demolab.com/?id=YM8wM8PBUIA&title=The+Zen+Browser+is+Worth+Taking+a+Look+At&lang=en&timestamp=1722211200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "The Zen Browser is Worth Taking a Look At")](https://youtu.be/YM8wM8PBUIA?si=uj3T_6Vrq2RSiFwU)
+[![Ja-1zm3Z-As](https://ytcards.demolab.com/?id=Ja-1zm3Z-As&title=Ja-1zm3Z-As&lang=en&timestamp=1722211200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "Ja-1zm3Z-As")](https://youtu.be/Ja-1zm3Z-As?si=sTchHOU4gE6APu5Z)
 
 ### 🔭 Current Projects
 
