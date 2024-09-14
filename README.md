@@ -93,6 +93,8 @@
 <!--     </span> -->
 <!-- </p> -->
 
+[![Lets talk about the Arc Browser](https://ytcards.demolab.com/?id=-KuHY6vYP0g&title=Lets+talk+about+the+Arc+Browser&lang=en&timestamp=1699799330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "Lets talk about the Arc Browser")](https://youtu.be/-KuHY6vYP0g?si=qcRQAUJ1lEO-TP9V)
+
 ### 🔭 Current Projects
 
 -   [Seth-V2](https://seth-v2.netlify.app/): Profile page written in React specifically for experimenting and learning web dev
