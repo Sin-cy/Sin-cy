@@ -14,9 +14,9 @@
     <a href="https://seth-v2.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img alt="Visit Seth V2 website" title="Visit Seth V2 website" src="https://img.shields.io/badge/Seth%20V2-9CCFD8?style=for-the-badge&logo=netlify&labelColor=000000" /></a>
     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" style="text-decoration: none;">
-        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCWam55wUh-OOcvrGJisq0zA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" style="display: block;"/></a>
+        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCWam55wUh-OOcvrGJisq0zA?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE4630&color=E05D44" style="display: block;"/></a>
     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA">
-        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCWam55wUh-OOcvrGJisq0zA?color=%2383C9F4&logo=video&logoColor=white&style=for-the-badge&labelColor=003B6F"/></a>
+        <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCWam55wUh-OOcvrGJisq0zA?style=for-the-badge&logo=youtube&logoColor=white&labelColor=003B6F&color=83C9F4"/></a>
 </p>
 
 ---
