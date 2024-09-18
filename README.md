@@ -99,14 +99,6 @@
 [![Lets talk about the Arc Browser](https://ytcards.demolab.com/?id=-KuHY6vYP0g&title=Lets+talk+about+the+Arc+Browser&lang=en&timestamp=1723680000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "Lets talk about the Arc Browser")](https://youtu.be/-KuHY6vYP0g?si=qcRQAUJ1lEO-TP9V)
 [![🚀 Supercharge Your Mac with These Apps](https://ytcards.demolab.com/?id=Ja-1zm3Z-As&title=%F0%9F%9A%80+Supercharge+Your+Mac+with+These+Apps&lang=en&timestamp=1723680000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "🚀 Supercharge Your Mac with These Apps")](https://youtu.be/Ja-1zm3Z-As?si=sTchHOU4gE6APu5Z)
 
-### 🔭 Current Projects
-
--   [Seth-V2](https://seth-v2.netlify.app/): Profile page written in React specifically for experimenting and learning web dev
--   [Password Generator](https://sincypass-generator.netlify.app/): As a part of my learning journey, I wanted to create something I can use on my own
--   [Cookie Consent](https://unacceptable-cookieconsent.netlify.app/): A fun blog page with an annoying cookie consent for users to accept before entering the page
--   Image to ASCII: Currently deciding weather to learn C++ or stay with JS and find a work around creating it.
--   Note Taking App: In progress...
-
 ### 🌱 I'm currently learning
 
 -   To Master JavaScript
