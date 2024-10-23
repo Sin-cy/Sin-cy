@@ -104,6 +104,8 @@
 
 -   To Master JavaScript
 -   Golang -> Creating HTTP servers
+-   Management App (Mindpath)
+-   Calendar App (CalenDuh)
 -   Cloud Computing
 -   Backend in general
 -   LLM's and AI
