@@ -95,22 +95,13 @@
 
 ### 📽️ Featured Videos
 
-[![Ghostty is One of a Kind](https://ytcards.demolab.com/?id=UcK6lDcL8fU&title=Ghostty+is+One+of+a+Kind&lang=en&timestamp=1735405200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "Ghostty is One of a Kind")](https://youtu.be/UcK6lDcL8fU?si=WASrMRyQFhpsDxox)
 [![8 Must Have Command Line tools](https://ytcards.demolab.com/?id=CbMbGV9GT8I&title=8+Must+Have+Command+Line+Tools&lang=en&timestamp=1732899600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "8 Must Have Command Line Tools")](https://youtu.be/CbMbGV9GT8I?si=c0JbdWGoCXqMKs3Z)
-[![How I Ended Up Using Vim as a Jr.Dev](https://ytcards.demolab.com/?id=EhJ1NZjP_W4&title=How+I+Ended+Up+Using+Vim+as+a+Jr.Dev&lang=en&timestamp=1726521600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "How I Ended Up Using Vim as a Jr.Dev")](https://youtu.be/EhJ1NZjP_W4?si=1KyjqzQpEqvsCQFZ)
+[![The Ultimate Neovim Setup Guide From Scratch](https://ytcards.demolab.com/?id=FGVY7gbaoQI&title=The+Ultimate+Neovim+Setup+Guide+From+Scratch&lang=en&timestamp=1725321600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "The Ultimate Neovim Setup Guide From Scratch")](https://youtu.be/FGVY7gbaoQI?si=uNf8rzIDG9trheWU)
+[![Ghostty is One of a Kind](https://ytcards.demolab.com/?id=UcK6lDcL8fU&title=Ghostty+is+One+of+a+Kind&lang=en&timestamp=1735405200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "Ghostty is One of a Kind")](https://youtu.be/UcK6lDcL8fU?si=WASrMRyQFhpsDxox)
 [![My Simple Neovim Setup For MAXIMUM Productivity](https://ytcards.demolab.com/?id=XRA5GeF2-GI&title=My+Simple+Neovim+Setup+For+MAXIMUM+Productivity&lang=en&timestamp=1731283200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "My Simple Neovim Setup For MAXIMUM Productivity")](https://youtu.be/XRA5GeF2-GI?si=P0vm8dqTx0tw44FG)
+[![How I Ended Up Using Vim as a Jr.Dev](https://ytcards.demolab.com/?id=EhJ1NZjP_W4&title=How+I+Ended+Up+Using+Vim+as+a+Jr.Dev&lang=en&timestamp=1726521600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "How I Ended Up Using Vim as a Jr.Dev")](https://youtu.be/EhJ1NZjP_W4?si=1KyjqzQpEqvsCQFZ)
 [![The Zen Browser is Worth Taking a Look At](https://ytcards.demolab.com/?id=YM8wM8PBUIA&title=The+Zen+Browser+is+Worth+Taking+a+Look+At&lang=en&timestamp=1725235200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "The Zen Browser is Worth Taking a Look At")](https://youtu.be/YM8wM8PBUIA?si=uj3T_6Vrq2RSiFwU)
-[![Lets talk about the Arc Browser](https://ytcards.demolab.com/?id=-KuHY6vYP0g&title=Lets+talk+about+the+Arc+Browser&lang=en&timestamp=1723680000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456 "Lets talk about the Arc Browser")](https://youtu.be/-KuHY6vYP0g?si=qcRQAUJ1lEO-TP9V)
 
-### 🌱 I'm currently learning
-
--   To Master JavaScript
--   Golang -> Creating HTTP servers
--   Management App (Mindpath)
--   Calendar App (CalenDuh)
--   Cloud Computing
--   Backend in general
--   LLM's and AI
 
 ### 📫 How to reach me
 
@@ -128,7 +119,6 @@
 
 ---
 
-⚖︎ From @Sin-cy
 
 <!---
 Sin-cy/Sin-cy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
