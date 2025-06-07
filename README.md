@@ -5,9 +5,17 @@
 </p>
 
 <p align="left">
-    I’m a Junior Self-Taught Software Developer with a passion for software engineering and technology. 
-    My journey in tech began in mid-2022 while studying Avionics Engineering, I discovered my love for programming. Since then, I've been dedicated to improving my skills and expanding my knowledge. 
-    In addition, I also create content focused on Tech and Productivity, sharing my insights and experiences with others.
+    I’m a Junior Software Developer. I like programming and enjoy the curious
+    nature of it.
+    My journey into programming began in mid 2022 while studying Avionics Engineering, I accidentally discovered my love for programming. 
+    Not to say that I was never into tech because I always was.
+    Since then, I've been wanting to improving my skills and expanding my
+    knowledge. 
+    In addition, I create content focused on Programming,Tech and Productivity sharing my insights and experiences on my yt channel.
+</p>
+
+<p>
+    **Currently using mac. Will probably switch to Linux one day.**
 </p>
 
 <p>
@@ -108,14 +116,12 @@
 <p align="left" >
     <a href="https://www.linkedin.com/in/setthanan-panichnok-593346261" ><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/26e07f/linkedin.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/seth_edw/" ><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=160&id=BrU2BBoRXiWq&format=png" /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" ><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/fluency/48/26e07f/youtube-play.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://seth-v2.netlify.app/#contact/" ><img width="32px" alt="Contact" title="Email me here" src="https://cdn-icons-png.flaticon.com/128/3296/3296464.png" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-- Email: setthananpanichnok@gmail.com
+- Email: edwsethtsc@gmail.com
 
 ---
 
