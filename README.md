@@ -1,7 +1,7 @@
 **`Producer of Bugs (Jr.Dev/Creator)`**
 
 <p align="left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&size=23&duration=1&color=F6C177&vCenter=true&repeat=false&width=435&lines=Pheno+Seth" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&size=23&duration=1&color=F6C177&vCenter=true&repeat=false&width=435&lines=Seth+Phaeno" alt="Typing SVG" /></a>
 </p>
 
 <p align="left">
@@ -15,7 +15,7 @@
 </p>
 
 <p>
-    **Currently using mac. Will probably switch to Linux one day.**
+    Currently using mac. Will probably switch to Linux one day.
 </p>
 
 <p>
