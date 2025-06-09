@@ -68,7 +68,7 @@
 <!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
 <!--     <img src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174935.png?f=webp&w=512" alt="Node.js" title="Node.js" width="40" height="40"/> -->
 <!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <!-- Others --> -->
+<!--     <!-- Others --> 
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/> -->
 <!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" title="Neovim" width="40" height="40"/> -->
@@ -77,7 +77,7 @@
 <!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="40" height="40"/> -->
 <!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <!-- Databases --> -->
+<!--     <!-- Databases --> 
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/> -->
 <!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/> -->
