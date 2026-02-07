@@ -26,77 +26,8 @@
 
 ---
 
-<!-- <p align="center" > -->
-<!--     <a href="https://www.linkedin.com/in/setthanan-panichnok-593346261" ><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/fluency/48/26e07f/linkedin.png" /></a> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <a href="https://www.instagram.com/seth_edw/" ><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=160&id=BrU2BBoRXiWq&format=png" /></a> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" ><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/fluency/48/26e07f/youtube-play.png" /></a> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!-- </p> -->
+![Most Used Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sin-cy&layout=compact&theme=rose_pine&show_icons=true)
 
-<!-- <p align="center"> -->
-<!--     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&pause=1000&color=6ECFF7&center=true&vCenter=true&width=435&lines=Self-taught+Jr.+Developer;Never+Stop+Learning" alt="Typing SVG" /></a> -->
-<!-- </p> -->
-
-<!-- <p align="center"> -->
-<!--     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" style="text-decoration: none;"> -->
-<!--         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCWam55wUh-OOcvrGJisq0zA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" style="display: block;"/></a> -->
-<!--     <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA"> -->
-<!--         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCWam55wUh-OOcvrGJisq0zA?color=%2383C9F4&logo=video&logoColor=white&style=for-the-badge&labelColor=003B6F"/></a> -->
-<!-- </p> -->
-
-<!-- ### 🛠 Tech Stack -->
-
-<!-- - Languages: JavaScript -->
-<!-- - Frontend(Main): JS, TS, React, HTML and CSS -->
-<!-- - Backend: Node.js and Express -->
-<!-- - Databases: MongoDB, MySQL and GraphQl -->
-<!-- - Tools: Git, Vim/Nvim , VSCode(debugging) and Terminal Utils. -->
-
-<!-- Frontend -->
-<!-- <p align="left" style="width: 30px; padding-right: 0px;"> -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174935.png?f=webp&w=512" alt="Node.js" title="Node.js" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <!-- Others --> 
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" title="Neovim" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://img.icons8.com/fluency/48/000000/console.png" alt="Terminal" title="Terminal Utils" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <!-- Databases --> 
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/> -->
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<!-- </p> -->
-
-#
-
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sin-cy&layout=compact&theme=rose_pine&show_icons=true)
-
-<!-- Tools -->
-<!-- <p align="center"> -->
-<!-- </p> -->
-
-<!-- Databases -->
-<!-- <p align="center"> -->
-<!--     <span> -->
-<!--     </span> -->
-<!-- </p> -->
 
 ### 📽️ Featured Videos
 
